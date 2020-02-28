@@ -1,0 +1,14 @@
+{
+  "name": "blockchain-example",
+  "version": "1.0.0",
+  "description": "a simple blockchain concept example",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Kamal",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
